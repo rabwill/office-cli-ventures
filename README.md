@@ -34,6 +34,5 @@ Following are the options you can pass to the script:
 
 argument|description|required|default value|example value
 --------|-----------|--------|-------------|-------------
-`-t, --tenantUrl`|URL of the SharePoint tenant where the sites have to be provisioned
-|yes|`https://tenant.sharepoint.com`|`https://tenant.sharepoint.com`
+`-t, --tenantUrl`|URL of the SharePoint tenant where the sites have to be provisioned|yes|`https://tenant.sharepoint.com`|`https://tenant.sharepoint.com`
 `
