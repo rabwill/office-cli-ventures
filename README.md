@@ -1,4 +1,13 @@
 # office-cli-ventures
+The script :-
+* Creates the main site
+* Creates the communication sites like templates, content hub etc
+* Creates the search classic site
+* Registers the hubsite
+* Associates other sites to hub site
+* Checks for app catalog in tenant if not provision it
+* Sets custom theme based on json file
+* Applies theme to all above sites
 
 ## Prerequisites
 
@@ -35,4 +44,4 @@ Following are the options you can pass to the script:
 argument|description|required|default value|example value
 --------|-----------|--------|-------------|-------------
 `-t, --tenantUrl`|URL of the SharePoint tenant where the sites have to be provisioned|yes|`https://tenant.sharepoint.com`|`https://tenant.sharepoint.com`
-`
+
