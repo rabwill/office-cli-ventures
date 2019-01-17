@@ -169,5 +169,6 @@ AssociateHubSite()
   AssociateHubSite  $intranetProjectsUrl  "$siteId"
   AssociateHubSite  $intranetTemplatesUrl  "$siteId"
   AssociateHubSite  $intranetServicesUrl  "$siteId"
+  success 'All DONE !!'
 
 
